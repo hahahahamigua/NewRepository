@@ -34,7 +34,8 @@ public class TestSalesforceRestful {
 	private static String END_POINT_ONLINE_MODE = null;
 	private static String END_POINT_OFFLINE_QUERY = null;
 	private static String END_POINT_OFFLINE_UPDATE = null;
-	//test
+	//test01
+	//test02
 	// 3.1.1 Input Parameter Client_ID
 	private static final String CLIENTID = "3MVG910YPh8zrcR1yVy5MQ5lXnXsPH9vhm03rjL_pR9XBrF9Vauaesfy0ROFA4e8yJ2gpLoZcs5EcCj.Z_39M";
 	// 3.1.1 Input Parameter Client_Secret
